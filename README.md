@@ -22,7 +22,7 @@ This app allows users to add tasks with a due date and time, mark them as comple
 
 > UI Preview:
 
-![Screenshot](Screenshot%202025-07-01%20125740.png)
+![Screenshot](screenshot.png)
 
 ---
 
